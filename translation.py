@@ -19,4 +19,5 @@ class Translation(object):
                
 ```📢 Channel:``` [Click here](https://t.me/CODERZHEX)
 
-```👥 Group:``` [Support](https://t.me/CoderzSupport)"
+```👥 Group:``` [Support](https://t.me/CoderzSupport)
+"""
