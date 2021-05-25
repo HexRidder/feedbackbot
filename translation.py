@@ -1,7 +1,7 @@
 from config import Config
 
 class Translation(object):
-      START = str(Config.START) + "\n\nMade with ❤ From @CoderzHEX
+      START = str(Config.START) + "\n\nMade with ❤ From @CoderzHEX"
       RULES = Config.RULES
 
       LOGIN = """Only for admins for receiving feedbacks"""
